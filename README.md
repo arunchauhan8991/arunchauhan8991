@@ -11,7 +11,6 @@ Versatile Full Stack Developer adapt in building dynamic web applications using 
 * ✉️  You can contact me at [arunchauhan8991@gmail.com](mailto:arunchauhan8991@gmail.com)
 * 🧠  I'm learning React & Data Structures and Algorithm.
 * 🤝  I'm open to collaborating on any project.
-* ⚡  I'm secretly Batman.......Tell everyone
 
 #### Skills
 
