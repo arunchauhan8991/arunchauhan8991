@@ -9,7 +9,6 @@ Versatile Full Stack Developer adapt in building dynamic web applications using 
 * 🌍  I'm based in Delhi, India.
 * 🖥️  See my portfolio at [My Portfolio.](http://arunchauhan8991.github.io/Portfolio-Website/)
 * ✉️  You can contact me at [arunchauhan8991@gmail.com](mailto:arunchauhan8991@gmail.com)
-* 🧠  I'm learning React & Data Structures and Algorithm.
 * 🤝  I'm open to collaborating on any project.
 
 #### Skills
