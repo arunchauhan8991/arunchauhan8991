@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend & Backend Developer
 ----------------------------
 
-Versatile Full Stack Developer adapt in building dynamic web applications using the MERN stack—React.js, Node.js, Express.js, and JavaScript—integrated with PostgreSQL for robust relational database management.
+Versatile Full Stack Developer adapt in building dynamic web applications using the MERN stack—React.js, Node.js, Express.js, MongoDB and JavaScript—integrated with PostgreSQL for robust relational database management.
 
 * 🌍  I'm based in Delhi, India.
 * 🖥️  See my portfolio at [My Portfolio.](http://arunchauhan8991.github.io/Portfolio-Website/)
